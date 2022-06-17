@@ -1,0 +1,9 @@
+<style>
+		h1 { color: blueviolet; }
+		#segundo { margin-top: 40px; }
+		#tercero { margin-top: 50px; }
+		.imagen { width: 400px; height: 200px; }
+		#thirdDiv { width: 500px; height: 600px; background: firebrick; padding: 50px; border: 5px solid orange; display: flex; justify-content: center; float: right; position: fixed; left: 600px;}
+		.divClass { display: flex; justify-content: center; }
+		#spanID { font-size: 18px; margin: 50px;}
+	</style>
